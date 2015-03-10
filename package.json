@@ -1,0 +1,16 @@
+{
+  "name": "EVA_webpack",
+  "version": "1.0.0",
+  "description": "Module example",
+  "main": "index.js",
+  "author": "Andre <tech3@jobline.com.sg>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.12.2",
+    "webpack": "^1.7.2"
+  },
+  "devDependencies": {
+    "babel-core": "^4.6.6",
+    "babel-loader": "^4.0.0"
+  }
+}
